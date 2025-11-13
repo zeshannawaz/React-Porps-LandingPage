@@ -1,0 +1,40 @@
+@import 'tailwindcss';
+
+@font-face {
+    font-family: 'Syne';
+    src: url('./assets/fonts/Syne-ExtraBold.woff') format('woff');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Syne';
+    src: url('./assets/fonts/Syne-Bold.woff') format('woff');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Syne';
+    src: url('./assets/fonts/Syne-Medium.woff') format('woff');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Syne';
+    src: url('./assets/fonts/Syne-Regular.woff') format('woff');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Syne';
+    src: url('./assets/fonts/Syne-SemiBold.woff') format('woff');
+    font-weight: 700;
+    font-style: normal;
+}
+
+body {
+    font-family: 'Syne', sans-serif;
+}
